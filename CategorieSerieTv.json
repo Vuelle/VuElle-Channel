@@ -3,7 +3,7 @@
   "fanart": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/VuElle_Wallpaper.jpg",
   "thumbnail": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/VuElle_Thumb.jpg",
   "menu": [
-     {
+    {
       "title": "Netflix",
       "link": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/Netflix.json",
       "thumbnail": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/SerieTv_Thumb.png"
