@@ -1,23 +1,12 @@
 {
-  "tvshows_list": [
-    {
-      "title": "Stranger Things",
-      "year": "2016",
-      "tmdb_id": "66732",
-      "seasons_list": [
-        {
-          "season": "1",
-          "link": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/StrangerThings1.json"
-        },
-        {
-          "season": "2",
-          "link": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/StrangerThings2.json"
-        },
-	{
-          "season": "3",
-          "link": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/StrangerThings3.json"
-        }
-      ]
+  "channel_name": "2015",
+  "fanart": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/VuElle_Wallpaper.jpg",
+  "thumbnail": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/VuElle_Thumb.jpg",
+  "menu": [
+     {
+      "title": "Categorie",
+      "link": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/CategorieSerieTv.json",
+      "thumbnail": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/SerieTv_Thumb.png"
     }
   ]
 }
