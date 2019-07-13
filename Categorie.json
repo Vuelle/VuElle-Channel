@@ -5,7 +5,7 @@
   "menu": [
      {
       "title": "Gangster Movie",
-      "link": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/GangsterMovie.json",
+      "link": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/Genere.json",
       "thumbnail": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/Film_Thumb.png"
     }
   ]
