@@ -5,12 +5,12 @@
   "menu": [
     {
       "title": "Netflix",
-      "link": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/Netflix.json",
+      "link": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/Net.json",
       "thumbnail": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/SerieTv_Thumb.png"
     },
      {
       "title": "BoooH",
-      "link": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/Netflix.json",
+      "link": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/Net.json",
       "thumbnail": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/SerieTv_Thumb.png"
     }  
   ]
