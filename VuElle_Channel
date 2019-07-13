@@ -10,7 +10,7 @@
     },
     {
       "title": "SerieTv",
-      "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/SerieTv.json",
+      "link": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/SerieTv.json",
       "thumbnail": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/SerieTv_Thumb.png"
     }
   ]
