@@ -1,5 +1,5 @@
 {
-  "channel_name": "2017",
+  "channel_name": "2015",
   "fanart": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/VuElle_Wallpaper.jpg",
   "thumbnail": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/VuElle_Thumb.jpg",
   "menu": [
@@ -8,10 +8,10 @@
       "link": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/Netflix.json",
       "thumbnail": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/SerieTv_Thumb.png"
     },
-    {
+     {
       "title": "BoooH",
       "link": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/Netflix.json",
       "thumbnail": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/SerieTv_Thumb.png"
-    }
+    }  
   ]
 }
