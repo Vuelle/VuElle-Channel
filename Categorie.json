@@ -7,6 +7,11 @@
       "title": "Genere",
       "link": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/Genere.json",
       "thumbnail": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/Film_Thumb.png"
+    },
+    {
+      "title": "Saghe",
+      "link": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/Saghe.json",
+      "thumbnail": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/Film_Thumb.png"
     }
   ]
 }
