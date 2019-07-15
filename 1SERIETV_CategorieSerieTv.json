@@ -5,12 +5,12 @@
   "menu": [
     {
       "title": "Netflix",
-      "link": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/Netflix.json",
+      "link": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/2SERIETV_CategoriaNetflixSerieTv.json",
       "thumbnail": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/SerieTv_Thumb.png"
     },
     {
       "title": "Prime Video",
-      "link": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/PrimeVideo.json",
+      "link": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/2SERIETV_CategoriaPrimeVideoSerieTv.json",
       "thumbnail": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/SerieTv_Thumb.png"
     }  
   ]
