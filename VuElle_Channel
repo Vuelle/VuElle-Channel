@@ -5,12 +5,12 @@
   "menu": [
     {
       "title": "Film",
-      "link": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/Categorie.json",
+      "link": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/1FILM_CategorieFilm.json",
       "thumbnail": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/Film_Thumb.png"
     },
     {
       "title": "SerieTv",
-      "link": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/CategorieSerieTv.json",
+      "link": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/1SERIETV_CategorieSerieTv.json",
       "thumbnail": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/SerieTv_Thumb.png"
     }
   ]
