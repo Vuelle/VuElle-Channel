@@ -6,12 +6,12 @@
      {
       "title": "Genere",
       "link": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/2FILM_CategoriaGenereFilm.json",
-      "thumbnail": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/Film_Thumb.png"
+      "thumbnail": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/FilmPerGenere_Thumb.png"
     },
     {
       "title": "Saghe",
       "link": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/2FILM_CategoriaSagheFilm.json",
-      "thumbnail": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/Film_Thumb.png"
+      "thumbnail": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/FilmSaghe_Thumb.png"
     }
   ]
 }
