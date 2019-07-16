@@ -10,6 +10,21 @@
           "link": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/3SERIETV_Homecoming1_PrimeVideoSerieTv.json"
         }
       ]
+    },
+    {
+      "title": "Lore - Antologia Dell'Orrore",
+      "year": "2017",
+      "tmdb_id": "73987",
+      "seasons_list": [
+        {
+          "season": "1",
+          "link": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/3SERIETV_Lore1_PrimeVideoSerieTv.json"
+        },
+        {
+          "season": "2",
+          "link": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/3SERIETV_Lore2_PrimeVideoSerieTv.json"
+        }
+      ]
     }
   ]
 }
