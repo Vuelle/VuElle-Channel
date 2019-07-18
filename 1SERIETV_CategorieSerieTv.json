@@ -17,6 +17,11 @@
       "title": "Fox",
       "link": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/2SERIETV_CategoriaPrimeVideoSerieTv.json",
       "thumbnail": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/SerieTvFox_Thumb.png"  
+    },
+    {
+      "title": "Sky",
+      "link": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/2SERIETV_CategoriaPrimeVideoSerieTv.json",
+      "thumbnail": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/SerieTvSky_Thumb.png"  
     }
   ]
 }
