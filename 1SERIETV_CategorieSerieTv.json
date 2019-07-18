@@ -27,6 +27,11 @@
       "title": "Premium",
       "link": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/2SERIETV_CategoriaPrimeVideoSerieTv.json",
       "thumbnail": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/SerieTvPremium_Thumb.png"  
+    },
+    {
+      "title": "DT Tv",
+      "link": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/2SERIETV_CategoriaPrimeVideoSerieTv.json",
+      "thumbnail": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/SerieTv_Thumb.png"  
     }
   ]
 }
