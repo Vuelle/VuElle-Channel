@@ -1,0 +1,15 @@
+{
+  "tvshows_list": [
+    {
+      "title": "Save Me",
+      "year": "2018",
+      "tmdb_id": "75789",
+      "seasons_list": [
+        {
+          "season": "1",
+          "link": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/3SERIETV_SaveMe1_SkySerieTv.json"
+		}
+      ]
+    }
+  ]
+}
