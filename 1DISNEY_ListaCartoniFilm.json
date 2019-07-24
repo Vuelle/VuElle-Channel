@@ -11,7 +11,7 @@
         }
       ]
     },
-	{
+   {
       "title": "Pinocchio",
       "year": "1940",
       "tmdb_id": "10895",
@@ -22,7 +22,7 @@
         }
       ]
     },
-	{
+   {
       "title": "Fantasia",
       "year": "1940",
       "tmdb_id": "756",
@@ -32,6 +32,28 @@
           "quality": "720"
         }
       ]
-    }
+    },
+   {
+      "title": "Bambi",
+      "year": "1942",
+      "tmdb_id": "3170",
+      "links": [
+        {
+          "url": "https://verystream.com/stream/8iGQ43j9rAR/",
+          "quality": "1080"
+        }
+      ]
+    },
+   {
+      "title": "Saludos amigos",
+      "year": "1942",
+      "tmdb_id": "14906",
+      "links": [
+        {
+          "url": "https://verystream.com/stream/6y6KsZTnvzH/",
+          "quality": "1080"
+        }
+      ]
+    } 
   ]
 }
