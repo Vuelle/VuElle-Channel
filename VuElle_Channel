@@ -12,6 +12,11 @@
       "title": "SerieTv",
       "link": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/1SERIETV_CategorieSerieTv.json",
       "thumbnail": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/SerieTv_Thumb.png"
+    },
+    {
+      "title": "Disney",
+      "link": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/1DISNEY_ListaCartoniFilm.json",
+      "thumbnail": "https://raw.githubusercontent.com/Vuelle/VuElle-Channel/master/Disney_Thumb.png"
     }
   ]
 }
