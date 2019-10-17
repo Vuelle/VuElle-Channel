@@ -3,7 +3,6 @@
     {
       "number": "01",
       "title": "Obbligatorio",
-      "plot": ".",
       "links": [
         {
           "url": "https://verystream.com/stream/EFmqSAVVrHh/"
@@ -11,7 +10,7 @@
       ]
     },
     {
-      "number": "02 - Ananas",
+      "number": "02",
       "title": "Ananas",
       "links": [
         {
@@ -20,7 +19,7 @@
       ]
     },
     {
-      "number": "03 - Ottica",
+      "number": "03",
       "title": "Ottica",
       "links": [
         {
@@ -29,7 +28,7 @@
       ]
     },
     {
-      "number": "04 - Redwood",
+      "number": "04",
       "title": "Redwood",
       "links": [
         {
@@ -38,7 +37,7 @@
       ]
     },
     {
-      "number": "05 - Supporto",
+      "number": "05",
       "title": "Supporto",
       "links": [
         {
@@ -47,7 +46,7 @@
       ]
     },
     {
-      "number": "06 - Giocattoli",
+      "number": "06",
       "title": "Giocattoli",
       "links": [
         {
@@ -56,7 +55,7 @@
       ]
     },
     {
-      "number": "07 - Prove",
+      "number": "07",
       "title": "Prove",
       "links": [
         {
@@ -65,7 +64,7 @@
       ]
     },
     {
-      "number": "08 - Protocollo",
+      "number": "08",
       "title": "Protocollo",
       "links": [
         {
@@ -74,7 +73,7 @@
       ]
     },
     {
-      "number": "09 - Lavoro",
+      "number": "09",
       "title": "Lavoro",
       "links": [
         {
@@ -83,7 +82,7 @@
       ]
     },
     {
-      "number": "10 - Stop",
+      "number": "10",
       "title": "Stop",
       "links": [
         {
