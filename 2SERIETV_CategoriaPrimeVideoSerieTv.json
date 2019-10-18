@@ -3,8 +3,7 @@
     {
       "title": "Homecoming",
       "year": "2018",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dkCpPQbBBxEZQljGATEgrP0N9i8.jpg",
-      "plot": "Buone intenzioni. Capi eccentrici. Paranoia in aumento. Conseguenze inaspettate. Heidi (Julia Roberts) lavora da Homecoming, una struttura che aiuta i soldati a reintegrarsi nella vita civile. Anni dopo e cambiata ormai vita, il Dipartimento della Difesa le chiede perché abbia lasciato l'Homecoming. Heidi capisce che esiste un'altra versione della storia.",
+      "tmdb_id": "80335",
       "seasons_list": [
         {
           "season": "1",
